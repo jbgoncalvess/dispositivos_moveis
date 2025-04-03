@@ -1,11 +1,9 @@
-# Sample Snack app
+# Exemplos de Componentes do React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este repositório apresenta exemplos práticos de componentes e APIs do **React Native**, pensados para ensinar alunos sobre as funcionalidades básicas e a estruturação de projetos. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Como Utilizar os Exemplos
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+1. Certifique-se de ter o ambiente React Native configurado no seu sistema.
+2. Copie os exemplos de componentes e cole-os em arquivos do seu projeto.
+3. Importe os componentes no seu **App.js** ou no arquivo principal e teste cada exemplo.
