@@ -10,3 +10,6 @@ O objetivo deste repositório é fornecer **códigos prontos e explicados**, que
 - Navegação entre telas (`React Navigation`).
 - Consumo de APIs (`fetch`, `axios`).
 - Gerenciamento de estado.
+
+
+## Prof. Jardel B. Gonçalves
