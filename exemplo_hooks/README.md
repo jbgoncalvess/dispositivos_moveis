@@ -1,11 +1,19 @@
-# Sample Snack app
+# Exemplos de Hooks no React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este repositório apresenta exemplos práticos dos principais **Hooks do React Native**, essenciais para gerenciar estado, efeitos colaterais e compartilhamento de dados entre componentes de maneira eficiente.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Como Utilizar os Exemplos
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+1. Certifique-se de ter o ambiente React Native configurado no seu sistema.
+2. Copie os exemplos de Hooks e cole-os em arquivos do seu projeto.
+3. Importe os Hooks no seu **App.js** ou no arquivo onde serão utilizados e teste cada exemplo.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Hooks Abordados
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Os exemplos cobrem os seguintes Hooks fundamentais:
+
+- **`useState`** – Gerenciamento de estado interno no componente.
+- **`useEffect`** – Execução de efeitos colaterais como chamadas de API.
+- **`useContext`** – Compartilhamento de estados globais.
+
+Cada exemplo contém explicações e uso adequado dentro do React Native.
