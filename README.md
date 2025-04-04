@@ -12,4 +12,7 @@ O objetivo deste repositório é fornecer **códigos prontos e explicados**, que
 - Gerenciamento de estado.
 
 
-## Prof. Jardel B. Gonçalves
+## 🏫 Professor  
+**Jardel B. Gonçalves**  
+📧 Email: [jardel.goncalves@ifc.edu.br](mailto:jardel.goncalves@ifc.edu.br)  
+🔗 GitHub: [github.com/jbgoncalvess](https://github.com/jbgoncalvess)
