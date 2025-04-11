@@ -4,7 +4,7 @@ Este repositório apresenta exemplos práticos de utilização do **React Naviga
 
 ## Como Utilizar os Exemplos
 
-Certifique-se de ter o ambiente React Native configurado e as dependências do React Navigator instaladas no seu projeto:
+Certifique-se de ter o ambiente React Native configurado e as dependências do React Navigator instaladas no seu projeto:  
 
 **`npm install @react-navigation/native`**
 
