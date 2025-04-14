@@ -1,11 +1,17 @@
-# Sample Snack app
+# Exemplos de Arrow Functions no React Native
+Este repositório apresenta exemplos práticos de Arrow Functions implementados no contexto do React Native, ilustrando como simplificar o código, manipular estado e trabalhar com objetos literais e funções anônimas.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Requisitos
+Certifique-se de que o ambiente React Native está configurado. Não são necessárias dependências adicionais além das padrão do React Native.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Como Utilizar os Exemplos
+1. Copie os componentes fornecidos neste repositório e cole-os no seu projeto React Native.
+2. Importe os exemplos no arquivo principal **App.js** e use-os como componentes para testar cada funcionalidade.
+3. Adapte os exemplos conforme as necessidades do seu aprendizado ou projeto (TCC).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Dicas e Recomendações
+Teste cada componente separadamente no seu projeto React Native para entender como as arrow functions simplificam o código.
+Experimente modificar os exemplos para utilizar funções normais e compare o comportamento.
+Use os exemplos como base para criar componentes mais complexos no seu aplicativo.
