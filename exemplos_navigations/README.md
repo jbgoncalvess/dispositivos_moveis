@@ -1,11 +1,26 @@
-# Sample Snack app
+# Exemplos de Navegação com React Navigator
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este repositório apresenta exemplos práticos de utilização do **React Navigator em React Native**, voltados para ensinar como estruturar e implementar diferentes tipos de navegação, como pilha (stack), abas (tabs) e gaveta (drawer).
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Como Utilizar os Exemplos
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Certifique-se de ter o ambiente React Native configurado e as dependências do React Navigator instaladas no seu projeto:  
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+**`npm install @react-navigation/native`**
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+**`npm install @react-navigation/native-stack`**
+
+E também as dependências essenciais:
+
+**`npm install react-native-screens`**
+
+**`npm install react-native-safe-area-context`**
+
+1 - Copie os exemplos de navegação fornecidos neste repositório e cole-os nos arquivos do seu projeto.
+
+2 - Importe os exemplos no seu arquivo principal (App.js) para testar cada tipo de navegação.
+
+3 - Experimente e adapte os exemplos conforme as necessidades do seu projeto.
+
+
+
