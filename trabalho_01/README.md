@@ -1,11 +1,35 @@
-# Sample Snack app
+# Aplicativo de Cadastro de Nomes – Exemplo Didático
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este projeto foi desenvolvido como **exemplo base** para os alunos da disciplina **Desenvolvimento para Dispositivos Móveis**. Ele demonstra conceitos fundamentais de desenvolvimento com **React Native** utilizando o **Expo**, focando em **navegação entre telas**, **manipulação de estado**, **contexto compartilhado** e **componentização**.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Objetivos Didáticos
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- Compreender como funciona a **estrutura de navegação com React Navigation**.
+- Aplicar o **useState** e o **useContext** para gerenciar estados globais.
+- Separar o código em **componentes reutilizáveis**.
+- Criar telas independentes para diferentes funcionalidades.
+- Adotar boas práticas de organização de código em projetos com Expo.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Funcionalidades
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- **Tela de Cadastro**: permite ao usuário inserir um nome e adicionar à lista.
+- **Tela de Lista**: exibe todos os nomes cadastrados e possibilita excluir qualquer item da lista.
+- Uso de **Context API** para compartilhar os dados entre as telas, sem a necessidade de props entre componentes.
+
+## Uso como base para o trabalho final
+
+Este projeto deve servir de referência para o **trabalho final trimestral**, que consiste em criar um aplicativo com pelo menos:
+
+- **2 ou mais telas com navegação**
+- **Um tipo de dado a ser cadastrado** (ex: tarefas, produtos do supermercado, nome de jogadores de futebol etc ...)
+- **Funcionalidades básicas:** criar, listar e remover dados
+
+## Dicas para Conseguir uma Boa Nota
+
+- **Tela inicial personalizada**: adicione uma tela de boas-vindas com uma cor de fundo atrativa, uma imagem ilustrativa e um botão que leve o usuário até a tela de cadastro.
+
+- **Melhoria visual no botão de exclusão**: utilize um botão com **cor vermelha** ou com um **ícone de lixeira**, tornando a função de deletar mais intuitiva e visualmente associada à ação de remover.
+---
+
+
+### BOA SORTE, ALUNOS !!!
